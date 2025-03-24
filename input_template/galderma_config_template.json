@@ -1,0 +1,93 @@
+{
+  "column_order": [
+    "revenue",
+    "sale",
+    "pp_revenue",
+    "pp_sale",
+    "py_revenue",
+    "py_sale",
+    "share_revenue",
+    "share_sale"
+  ],
+  "column_alias": {
+    "Sales Value": "Doanh số",
+    "Unit sales": "Sản lượng",
+    "Unit Sales": "Sản lượng",
+    "PY (%)\nBy: Sales Value": "Tăng trưởng (%)\nTheo: Doanh số",
+    "PY (%)\nBy: Unit Sales": "Tăng trưởng (%)\nTheo: Sản lượng",
+    "Share (%)\nBy: Sales Value": "Thị phần (%)\nTheo: Doanh số",
+    "Share (%)\nBy: Unit Sales": "Thị phần (%)\nTheo: Sản lượng",
+    "PY (%)": "Tăng trưởng (%)",
+    "Share (%)": "Thị phần (%)",
+    "platform": "Sàn",
+    "price_range": "Phân khúc giá",
+    "partner_brand": "Thương hiệu",
+    "partner_function": "Công dụng",
+    "Market size": "Tổng Doanh số"
+  },
+  "column_min_alias": {
+    "revenue": "Sales Value",
+    "sale": "Unit sales",
+    "pp_revenue": "PP (%)"
+
+  },
+  "row_alias": {
+    "Sales Value": "Doanh số",
+    "Unit sales": "Sản lượng",
+    "Market size": "Tổng Doanh số",
+    "PY (%)": "Tăng trưởng (%)",
+    "Share (%)": "Thị phần (%)"
+  },
+  "row_min_alias": {
+    "Tổng cộng": "Female"
+  },
+  "lst_table": [
+    {
+      "key": "tb_overview_l1",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "key": "tb_overview_l2",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "key": "tb_overview_l3",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "key": "tb_overview_l4",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "key": "tb_overview_l5",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "key": "tb_overview_l6",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "key": "B.1.1",
+      "row": 1,
+      "col": 2,
+      "is_transpose": true
+    },
+    {
+      "key": "B.1.1-brand",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "key": "B.1.1-obg",
+      "row": 0,
+      "col": 1,
+      "is_hide_header": true
+    }
+  ]
+}
